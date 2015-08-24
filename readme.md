@@ -1,4 +1,4 @@
-===Responsive slider / slideshow===
+#Responsive slider / slideshow
 Contributors: subhansanjaya, Alberto Barradas
 Author: subhansanjaya
 Author URI: http://weaveapps.com
@@ -95,5 +95,5 @@ Added options to change background and font colour from the backend.
 
 ## Screenshots
 
-1. 
-2.
+1.![screenshot-1.jpg](https://raw.githubusercontent.com/abcsds/responsive-slideshow/master/screenshot-1.jpg)
+2.![screenshot-2.jpg](https://raw.githubusercontent.com/abcsds/responsive-slideshow/master/screenshot-2.jpg)
